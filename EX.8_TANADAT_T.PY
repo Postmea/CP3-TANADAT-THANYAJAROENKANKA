@@ -43,3 +43,4 @@ if UsernameInput == "admin" and PasswordInput == "1234" :
         print(result)
 else:
     print("Wrong Username or Password")
+print("Thank you, come back to visit again as soon.")

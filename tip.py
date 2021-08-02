@@ -5,5 +5,3 @@ for i in range(10):
 ##คำสั่ง print ธรรมดา คำตอบจะขึ้นทีละแถว
 for i in range(10):
     print(i)
-
-    สวง
